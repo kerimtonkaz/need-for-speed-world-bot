@@ -6,3 +6,5 @@
   - Otomatik Yarışa Katılma
   - Otomatik Sürüş
   - Otomatik Yarış Sonu Hediye 
+
+Official oyun kapandığı için source kodlarını paylaşmak istedim. WorldUnited.gg'de hala çalışmakta oynayan varsa geliştirip kullanabilir.
