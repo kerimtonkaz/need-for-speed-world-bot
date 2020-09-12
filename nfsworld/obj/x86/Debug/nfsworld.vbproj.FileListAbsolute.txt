@@ -1,0 +1,38 @@
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Interop.AutoItX3Lib.dll
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\nfsworld.vbproj.ResolveComReference.cache
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\bin\Debug\Pointer - NFS World Kart.exe
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\bin\Debug\Pointer - NFS World Kart.pdb
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\bin\Debug\Pointer - NFS World Kart.xml
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_Kart.ayarlar.resources
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_Kart.Form1.resources
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_Kart.Resources.resources
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World Kart.exe
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World Kart.xml
+c:\users\krm\documents\visual studio 2010\Projects\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World Kart.pdb
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\nfsworld.vbproj.ResolveComReference.cache
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World Kart.exe
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World Kart.xml
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World Kart.pdb
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\bin\Debug\Pointer - NFS World Kart.exe
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\bin\Debug\Pointer - NFS World Kart.pdb
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\bin\Debug\Pointer - NFS World Kart.xml
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_Kart.ayarlar.resources
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_Kart.Form1.resources
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_Kart.Resources.resources
+C:\Users\Pointers\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\nfsworld.vbproj.GenerateResource.Cache
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\nfsworld.vbproj.ResolveComReference.cache
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\nfsworld.vbproj.GenerateResource.Cache
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\bin\Debug\Pointer - NFS World BOT.exe
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\bin\Debug\Pointer - NFS World BOT.pdb
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\bin\Debug\Pointer - NFS World BOT.xml
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_BOT.ayarlar.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_BOT.Form1.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer_NFS_World_BOT.Resources.resources
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World BOT.exe
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World BOT.xml
+C:\Users\Pointer\Documents\Visual Studio 2012\Projects\ORJ\nfsworld\nfsworld\obj\x86\Debug\Pointer - NFS World BOT.pdb
